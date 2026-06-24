@@ -1,8 +1,8 @@
-# Staff-availability
+# StaffAvail
 
 Real-Time Staff Availability and Occupancy Tracking System
 
-Staff-availability is an IoT-powered staffroom monitoring and availability management system designed to provide real-time visibility into staff presence. The system combines RFID authentication, ESP32-based edge devices, a Java Vert.x backend, MongoDB storage, and smart visual indicators to create a seamless staff check-in/check-out experience.
+StaffAvail is an IoT-powered staffroom monitoring and availability management system designed to provide real-time visibility into staff presence. The system combines RFID authentication, ESP32-based edge devices, a Java Vert.x backend, MongoDB storage, and smart visual indicators to create a seamless staff check-in/check-out experience.
 
 The platform enables real-time occupancy tracking, availability monitoring, timestamped attendance events, and future dashboard integration for analytics and reporting.
 
