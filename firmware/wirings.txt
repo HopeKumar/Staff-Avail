@@ -1,0 +1,33 @@
+#CIRCUIT CONNECTIONS 
+
+                           ##RFID Scanner RC522
+RC522	                                                          ESP32
+SDA	                                                            GPIO 5
+SCK	                                                            GPIO 18
+MOSI	                                                          GPIO 23
+MISO	                                                          GPIO 19
+RST	                                                            GPIO 4
+3.3V	                                                           3V3
+GND	                                                             GND
+        
+                            ##DISPLAY 16X2 IC
+                          
+
+LCD	                                                             ESP32
+SDA	                                                             GPIO 21
+SCL	                                                             GPIO 22
+VCC	                                                              5V
+GND	                                                              GND
+
+                               ##BUZZER
+Buzzer Pin	                                                     ESP32                               
++	                                                               GPIO 27
+GND	                                                              GND
+VCC                                                               3.3V
+
+                                   LEDs
+
+WS8218                                                            ESP32
+D1                                                                GPIO 14
+VCC                                                                5 V
+GND                                                                GND
